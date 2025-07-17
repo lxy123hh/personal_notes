@@ -1,9 +1,11 @@
 ## ====基础部分====
-
+<span v-pre>✅</span> 
 1. 软链接和硬链接的区别
-
-
-
+-----
+```
+https://github.com/yourname/yourrepo.git
+```
+![image-20250330195152077](./%E5%89%8D%E7%AB%AF.assets/image-20250330195152077.png)
 1. Linux的目录结构
 2. Linux系统的启动流程
 3. 删除修改时间超过60分钟的.log格式的文件(find grep awk的用法)
