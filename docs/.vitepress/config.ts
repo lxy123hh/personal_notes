@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '前端', link: '/前端' },
+      { text: '前端', link: '/frontend' },
       { text: '测试页', link: '/前端_cleaned_emoji_html' }
     ],
     sidebar: {
@@ -15,7 +15,7 @@ export default defineConfig({
           text: '目录',
           items: [
             { text: '首页', link: '/' },
-            { text: '前端', link: '/前端' },
+            { text: '前端', link: '/frontend' },
             { text: '测试页', link: '/test' }
           ]
         }

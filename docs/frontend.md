@@ -295,15 +295,15 @@ Hi yourname! You've successfully authenticated, but GitHub does not provide shel
 * SCSS IntelliSense
 * 下载windows字体到C:\Windows\Fonts（https://github.com/adobe-fonts/source-code-pro）
 
-![image-20250330192534476](./%E5%89%8D%E7%AB%AF.assets/image-20250330192534476.png)
+![image-20250330192534476](/frontend.assets/image-20250330192534476.png)
 
 滚轮放大
 
-![image-20250330192709288](./%E5%89%8D%E7%AB%AF.assets/image-20250330192709288.png)
+![image-20250330192709288](/frontend.assets/image-20250330192709288.png)
 
 Terminal.integrated.fontFamily
 
-![image-20250330195152077](./%E5%89%8D%E7%AB%AF.assets/image-20250330195152077.png)
+![image-20250330195152077](/frontend.assets/image-20250330195152077.png)
 
 # html
 
@@ -411,7 +411,7 @@ document.querySelector('h1').textContent = 'Hello, JavaScript!';
 
 通过id获取元素
 
-![image-20250401163507502](./%E5%89%8D%E7%AB%AF.assets/image-20250401163507502.png)
+![image-20250401163507502](/frontend.assets/image-20250401163507502.png)
 
 DOM 提供了一种动态交互方式，使得 CSS 和 JavaScript 可以协同工作：
 
@@ -1191,7 +1191,7 @@ span {
 </div>
 ```
 
-![image-20250404152829050](./%E5%89%8D%E7%AB%AF.assets/image-20250404152829050.png)
+![image-20250404152829050](/frontend.assets/image-20250404152829050.png)
 
 
 
