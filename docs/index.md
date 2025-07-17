@@ -1,7 +1,13 @@
-# Hello World
-喜欢小高
+# Welcome to VitePress
+
+这是我的个人学习笔记站点。
 
 
-## 目录
+## 技术栈
+- **前端**：HTML, CSS, JavaScript, Vue3,  Vite。
 
-- [面试题](./test.md)
+
+欢迎访问我的学习笔记！
+
+
+
