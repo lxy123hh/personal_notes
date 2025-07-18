@@ -1218,11 +1218,11 @@ span {
 </div>
 ```
 
-<img src="./%E5%89%8D%E7%AB%AF.assets/image-20250404192229520.png" alt="image-20250404192229520" style="zoom:50%;" />
+<img src="/frontend.assets/image-20250404192229520.png" alt="image-20250404192229520" style="zoom:50%;" />
 
 此时需要给父级容器加属性：overflow: scroll;overflow-y:scorll(横向)
 
-<img src="./%E5%89%8D%E7%AB%AF.assets/image-20250404192342557.png" alt="image-20250404192342557" style="zoom:50%;" />
+<img src="/frontend.assets/image-20250404192342557.png" alt="image-20250404192342557" style="zoom:50%;" />
 
 视图高度百分百问题，有滚动条，是因为有margin
 
@@ -1635,7 +1635,7 @@ box-shadow: h-offset v-offset blur spread color inset;
 </html>
 ```
 
-<img src="./%E5%89%8D%E7%AB%AF.assets/image-20250416141106707.png" alt="image-20250416141106707" style="zoom: 50%;" />
+<img src="/frontend.assets/image-20250416141106707.png" alt="image-20250416141106707" style="zoom: 50%;" />
 
 
 
@@ -5058,7 +5058,7 @@ console.log(curriedSum(1)(2)(3)); // 输出：6
 
 ### 原型和原型链
 
-![image-20250704095901076](%E5%89%8D%E7%AB%AF.assets/image-20250704095901076.png)
+![image-20250704095901076](/frontend.assets/image-20250704095901076.png)
 
 1. **什么是原型链？**
    - **原型链** 是 JavaScript 中实现继承的机制。它是一个对象的内部属性，指向另一个对象，这样就形成了一个链式结构。
